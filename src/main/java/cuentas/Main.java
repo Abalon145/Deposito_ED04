@@ -1,7 +1,8 @@
 package cuentas;
 
 public class Main {
-//Comentario para poder hacer commit 
+//Comentario del commit
+    //Antes de configurar el acceso a GitLab, se creó una rama de Git local en el equipo desde el que se inició.
     public static void main(String[] args) {
         operativa_cuenta(0);
     }
