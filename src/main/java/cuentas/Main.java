@@ -1,5 +1,12 @@
 package cuentas;
-
+/**
+ *Prueba del uso de JavaDoc
+ * 
+ * 
+ * 
+ * 
+ * @author Sergio Gonzalez Llovo
+ */
 public class Main {
 //Comentario del commit
     //Antes de configurar el acceso a GitLab, se creó una rama de Git local en el equipo desde el que se inició.
