@@ -1,7 +1,7 @@
 package cuentas;
 
 public class CCuenta {
-
+//Comentario para hacer commit
 
     private String nombre;
     private String cuenta;
